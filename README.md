@@ -1,10 +1,10 @@
-Here's a **next-level** README for your SQL Query Generator project, crafted to be both highly professional and visually appealing. It includes icons, emojis, and a modern layout designed for GitHub:
 
 ---
 
 # 🚀 **AI-Powered SQL Query Generator** 🤖
 
-![SQL Generator Banner](https://github.com/user-attachments/assets/sql-generator-banner.png)
+![SQL Generator Banner](https://github.com/user-attachments/assets/98402b92-277b-4796-a599-30ac6bfca6d3)
+
 
 Welcome to the **AI-Powered SQL Query Generator**! This project utilizes the **Google Gemini AI** to generate accurate and efficient SQL queries from plain English input. With this app, you'll be able to seamlessly convert natural language queries into SQL code, receive sample output, and even get an explanation of the query! 💻🧠
 
@@ -20,9 +20,9 @@ Welcome to the **AI-Powered SQL Query Generator**! This project utilizes the **G
 
 ---
 
-## 🚀 **Live Demo**
+## 📽️ Watch the Game in Action!
 
-👉 **[Try it Now!](https://sql-query-generator-demo.app)**
+👉 Check out our gameplay video here: [SQL Query Generator](https://www.loom.com/share/06f0fdf913b048f2859b459a35d0e411?sid=5afa2638-014b-455a-a1e0-aea94a342433)
 
 ---
 
@@ -88,6 +88,10 @@ Welcome to the **AI-Powered SQL Query Generator**! This project utilizes the **G
 - Enhanced **code block styling** to make SQL output visually appealing and easy to copy 📋.
 
 ---
+
+![s1](https://github.com/user-attachments/assets/b0cfa6ec-0c17-41b8-82c1-4532589f61a1) ![s2](https://github.com/user-attachments/assets/1a445fcc-8716-42dc-8ea0-c174ed212d9f)
+
+
 
 ## 📂 **Project Structure**
 
