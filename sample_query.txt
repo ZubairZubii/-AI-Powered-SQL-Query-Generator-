@@ -1,0 +1,7 @@
+1. Simple SELECT Query with Conditions
+
+2. JOIN Query
+"Create a SQL query that joins the orders table with the products table to display the order ID, product name, and total price for all orders made in the last 7 days."
+
+3. Aggregation and GROUP BY
+"Generate a SQL query that calculates the total sales and the number of orders placed for each product category from the sales table, grouped by category, and display the results in descending order of total sales."
